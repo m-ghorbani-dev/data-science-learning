@@ -29,3 +29,18 @@ Thumbs.db
 *.log
 *.tmp
 *.bak
+
+# Environment variables and local configuration
+.python-version
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python type checker and linter caches
+.mypy_cache/
+.ruff_cache/
